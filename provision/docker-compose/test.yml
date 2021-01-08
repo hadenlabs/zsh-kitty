@@ -6,7 +6,7 @@
 version: '3.6'
 services:
   app:
-    image: zsh-cheat-app-test
+    image: zsh-kitty-app-test
     environment: &environment
       - STAGE=testing
     build:
