@@ -2,7 +2,7 @@ FROM python:3.8.0-slim
 
 ARG stage
 
-LABEL NAME zsh-cheat-$stage
+LABEL NAME zsh-kitty-$stage
 
 ENV USERNAME developer
 

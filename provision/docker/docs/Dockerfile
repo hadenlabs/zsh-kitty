@@ -2,7 +2,7 @@ FROM sphinxdoc/docker-ci
 
 ARG stage
 
-LABEL NAME zsh-cheat-doc
+LABEL NAME zsh-kitty-doc
 
 ENV USERNAME developer
 

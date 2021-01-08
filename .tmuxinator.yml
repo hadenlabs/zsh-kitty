@@ -1,5 +1,5 @@
-# ~/.tmuxinator/zsh-cheat.yml
-name: zsh-cheat
+# ~/.tmuxinator/zsh-kitty.yml
+name: zsh-kitty
 root: ./
 # Optional tmux socket
 # socket_name: foo

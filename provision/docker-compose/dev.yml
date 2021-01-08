@@ -7,13 +7,13 @@ services:
   app:
     environment: &environment
       - STAGE=local
-    image: zsh-cheat-app-dev
+    image: zsh-kitty-app-dev
     build:
       args:
         stage: dev
 
   check:
-    image: zsh-cheat-check-dev
+    image: zsh-kitty-check-dev
     environment: *environment
     build:
       context: .

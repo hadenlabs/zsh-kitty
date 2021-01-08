@@ -1,9 +1,9 @@
 {
   "keywords": [],
-  "name": "zsh-cheat",
+  "name": "zsh-kitty",
   "description": "description",
   "private": true,
-  "repository": "ssh://git@github.com/hadenlabs/zsh-cheat.git",
+  "repository": "ssh://git@github.com/hadenlabs/zsh-kitty.git",
   "author": "Luis Mayta <slovacus@gmail.com>",
   "license": "MIT",
   "stylintrc": ".stylintrc",
