@@ -1,6 +1,6 @@
 {
   "name": "@hadenlabs/zsh-kitty",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "zsh-kitty for zsh",
   "repository": "ssh://git@github.com/hadenlabs/zsh-kitty.git",
   "author": "Luis Mayta <slovacus@gmail.com>",
