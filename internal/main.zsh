@@ -18,5 +18,5 @@ function kitty::internal::main::factory {
 
 kitty::internal::main::factory
 
-if ! type -p rsync > /dev/null; then kitty::internal::rsync::install; fi
-if ! type -p kitty > /dev/null; then kitty::internal::kitty::install; fi
+if ! core::exists rsync; then core::install rsync; fi
+if ! core::exists kitty; then kitty::internal::kitty::install; fi
